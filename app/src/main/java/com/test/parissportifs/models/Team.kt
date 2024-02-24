@@ -1,6 +1,6 @@
 package com.test.parissportifs.models
 
-class Teams(
+class Team(
     val idTeam: String,
     val idSoccerXML: String,
     val idAPIfootball: String,

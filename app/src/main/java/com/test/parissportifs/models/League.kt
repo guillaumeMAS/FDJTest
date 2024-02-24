@@ -1,6 +1,6 @@
 package com.test.parissportifs.models
 
-class Leagues(
+class League(
     val idLeague : String,
     val strLeague: String,
     val strSport: String,
