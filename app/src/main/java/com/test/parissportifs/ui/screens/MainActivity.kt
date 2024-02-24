@@ -1,4 +1,4 @@
-package com.test.parissportifs
+package com.test.parissportifs.ui.screens
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
